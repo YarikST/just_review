@@ -1,0 +1,1 @@
+json.partial! '/api/v1/attachments/attachment_item', attachment: @attachment
